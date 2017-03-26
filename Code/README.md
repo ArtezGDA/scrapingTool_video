@@ -10,5 +10,6 @@ How:
 - open the processing file code in processing 
 - Replace AAA.mov by your own video file(name) 
   - example: "firstvideo.mov" 
+- change frames per second
 - Press the play button 
 - You can find the images in a folder in the processing folder
