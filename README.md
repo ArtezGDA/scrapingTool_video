@@ -33,14 +33,7 @@ Here you can download the tool: (website)
 
 ## Code
 
-How: 
-- Downlaod processing (https://processing.org) 
-- Add library video
-- open the processing file code in processing 
-- Replace AAA.mov by your own video file(name) 
-  - example: "firstvideo.mov" 
-- Press the play button 
-- You can find the images in a folder in the processing folder
+See the 'code' folder for more information about the code. 
 
 ## Project owners:
 - Jodie (W)
