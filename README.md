@@ -6,14 +6,42 @@ A tool that can scrape a video frame by frame and sort it by color.
 ...
 
 ## Tool
-
-- Choose the folder with your video files. 
-- The tool will analyse if there are unreadable files. It will give an error if the files are unreadable. 
-- You can choose how the tool will order your images by color. Which color, RGB, from light to dark, from dark to light, selected colors, from more to less of a particular color or you can place the colored cubes in a specific order. 
-- Enter a name for the folder.
-- Press the start button. 
-- Now the tool will scrape the images of the video and sort it by the color(s) you want.
-- In the created folder you can find your sorted images. The images are numbered. 
+ 
+- Open the tool. 
+- Paste link to download video. Press OK. 
+- Select folder to save video. 
+- Choose name for video, choose name for screenshot files or use Standard. 
+- Choose amount of screenshot per video or per second. Press OK. 
+- The tool is now downloading and saving on computer. 
+#
+- Select movie to work with. 
+- Select movie from folder. Press OK 
+- Tool is analyzing file if it is ready to use or maybe damaged. 
+#
+- Menu
+- How to range the outcome. 
+- You can choose between: select on specific color, select on amount light/dark in image or select on color range.
+- Select on specific color:
+  - By colorname (blue, red, orange, green, etc.) 
+  - By colorcode (CMYK, RGB, HEX)
+- Select on amount light/dark in image:
+  - Light to dark. 
+  - Dark to light.
+  - Possible to shuffle.
+- Select on color range: 
+  - Possible to shuffle color blocks. 
+ # 
+- Output Menu
+- You can choose between: Contact sheet, print or save in folder. 
+- Contact sheet: 
+  - Set space between images.
+  - Set amount of columns and rows.
+  - Background color (by color name or by color code) 
+- Print: 
+  - Opens print system preferences. 
+- Save in folder:
+  - Save in existing folder, save in new folder in existing folder or name folder. 
+  
 
 ## Practice 
 
