@@ -61,6 +61,10 @@ Here you can download the tool: (website)
 
 See the 'code' folder for more information about the code. 
 
+## Proces
+
+See the 'proces' folder 
+
 ## Project owners:
 - Jodie (W)
 - Hannah
