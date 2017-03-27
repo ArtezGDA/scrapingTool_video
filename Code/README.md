@@ -5,7 +5,7 @@ Explanation about the code
 ## Explanation
 
 How: 
-- Downlaod processing (https://processing.org) 
+- Download processing (https://processing.org) 
 - Add library video
 - open the processing file code in processing 
 - Replace yourmoviehere.mp4 by your own video file(name). You find this on line 9. 
