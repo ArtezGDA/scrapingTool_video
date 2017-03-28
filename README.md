@@ -16,7 +16,7 @@ We made a tool to scrape a video frame by frame. The goal of the tool is to adju
 - The tool is now downloading and saving on computer. 
 #
 - Select movie to work with. 
-- Select movie from folder. Press OK 
+- Select movie from folder. Press OK. 
 - Tool is analyzing file if it is ready to use or maybe damaged. 
 #
 - Menu
@@ -64,7 +64,7 @@ See the 'code' folder for more information about the code.
 
 ## Proces
 
-See the 'proces' folder 
+See the 'proces' folder. 
 
 ## Project owners:
 - Jodie (W)
