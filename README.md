@@ -52,11 +52,7 @@ You can use the tool for:
 - To make a book
 - To make a serie (film)posters
 - To make a new movie
-- etc. 
-
-## Download
-
-Here you can download the tool: (website) 
+- etc.  
 
 ## Code
 
