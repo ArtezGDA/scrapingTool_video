@@ -1,9 +1,10 @@
-# scrapingTool_video
+# Smart Frames
 
-A tool that can scrape a video frame by frame and sort it by color. 
+A tool that can scrape a video frame by frame and sort it in various ways.
 
 ## Introduction
-...
+
+We made a tool to scrape a video frame by frame. The goal of the tool is to adjust or check the imagery in a certain way. The code to scrape videoframes is a working code. The tool itself is a demo. 
 
 ## Tool
  
