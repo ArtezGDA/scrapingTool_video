@@ -2,7 +2,7 @@
 
 Explanation about the code 
 
-## Explanation
+## Short explanation
 
 How: 
 - Download processing (https://processing.org) 
@@ -14,8 +14,8 @@ How:
 - Press the play button 
 - You can find the images in a folder in the processing folder
 
-## Use_Processing.pdf
-Open the PDF file Use_processing.pdf to see screenshots for every step you have to take to use the code. 
+## Advanced explanation in steps use_processing.pdf
+Open the PDF file use_processing.pdf to see screenshots for every step you have to take to use the code. 
 
 ## Processingfile.
 Open the processing file "processingfile." to use the code. 
