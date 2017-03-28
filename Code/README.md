@@ -18,4 +18,4 @@ How:
 Open the PDF file use_processing.pdf to see screenshots for every step you have to take to use the code. 
 
 ## Processingfile.
-Open the processing file "processingfile." to use the code. 
+Open the processing file "smartframes.pde" to use the code. 
